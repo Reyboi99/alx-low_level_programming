@@ -1,0 +1,11 @@
+#include <stdio.h>
+/**
+ * main - printing puts functions
+ * Return: 0 (Done)
+ */
+int main(void)
+{
+puts("\"Programming is like building a multilingual puzzle
+");
+return (0);
+}
