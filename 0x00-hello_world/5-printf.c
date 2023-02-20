@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
  * main - using a programme that prints using printf function
- * Return: 0 (SUCCESS)
+ * Return: 0 (Success)
  */
-int main(void);
+int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art, \n")
-return (0);
+	printf("with proper grammar, but the outcome is a piece of art, \n");
+	return (0);
 }
